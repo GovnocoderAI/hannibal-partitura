@@ -9,7 +9,7 @@
 SHA-256:
 
 ```
-ec2f7b57d1710ee850058b2d57019839751656f87c65f255b29ce7a9bba5305e
+deb696e3bb81c3ee05ade6b9ca54e3fb8ca4b10c61118bc3fb8e05fcbd554ea4
 ```
 
 ## Что внутри

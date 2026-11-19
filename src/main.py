@@ -206,6 +206,11 @@ def run_selftest():
 
 
 def main():
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
     args = sys.argv[1:]
     if "--version" in args:
         print("HannibalVN 1.0")
