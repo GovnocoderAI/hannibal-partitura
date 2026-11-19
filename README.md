@@ -2,6 +2,9 @@
 
 **Консольная визуальная новелла** — психологический триллер с романтической линией, процедурным пиксель-артом и анимациями прямо в терминале.
 
+[![tests](https://github.com/GovnocoderAI/hannibal-partitura/actions/workflows/tests.yml/badge.svg)](https://github.com/GovnocoderAI/hannibal-partitura/actions/workflows/tests.yml)
+[![release](https://img.shields.io/github/v/release/GovnocoderAI/hannibal-partitura?label=release)](https://github.com/GovnocoderAI/hannibal-partitura/releases/latest)
+
 18+ · фан-работа · Windows 10/11 · один `.exe`, без установки
 
 ![Выражения Ганнибала](docs/expressions.png)
